@@ -22,7 +22,7 @@
 
 /* publication header */
 .profile-img{
-    background-image: url(./assets/img/Perfil.jpg);
+    background-image: url(../assets/img/Perfil.jpg);
     border-radius: 50%;
     width: 4rem;
     height: 4rem;
@@ -171,7 +171,7 @@
 /* comment area */
 
 .comment-img {
-    background-image: url(./assets/img/Perfil.jpg);
+    background-image: url(../assets/img/Perfil.jpg);
     border-radius: 50%;
     width: 2rem;
     height: 2rem;
